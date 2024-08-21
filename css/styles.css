@@ -150,6 +150,7 @@ img {
   background-size: cover;
   max-width: 1440px;
   max-height: 600px;
+  margin: 0 auto;
 }
 .hero-title {
   margin-bottom: 48px;
@@ -551,6 +552,7 @@ img {
 }
 .icon-sent-footer {
   margin-left: 16px;
+  fill: #fff;
 }
 
 .footer-form-input::placeholder {
@@ -647,7 +649,6 @@ img {
   text-align: center;
   color: #2e2f42;
   width: 360px;
-  margin-top: 24px;
   margin-bottom: 16px;
 }
 .form-wrraper-cont {
